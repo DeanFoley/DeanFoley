@@ -1,6 +1,6 @@
 ## 💻 Hi there 👋 I'm `Dean`, nice to meet you!
 #### ✨ Pronouns: `he/him/his`
-#### 🌍 Where Am I: North of England
+#### 🌍 Where Am I: Manchester, UK
 #### 🛠️ What Am I: Software Engineer
 
 `🖥️` - **I am an engineer with over five years in the industry**. Worked as a software engineer, test engineer and platform engineer! Always more to learn, and never shying away from a challenge!
