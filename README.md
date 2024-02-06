@@ -3,7 +3,7 @@
 #### 🌍 Where Am I: Manchester, UK
 #### 🛠️ What Am I: Software Engineer
 
-`🖥️` - **I am an engineer with over five years in the industry**. Worked as a software engineer, test engineer and platform engineer! Always more to learn, and never shying away from a challenge!
+`🖥️` - **I am an engineer with over five years experience in the industry**. Worked as a software engineer, test engineer and platform engineer! Always more to learn, and never shying away from a challenge!
 
 `🧰` - **Love working in back-end, tooling & platform stuff**. Love working with microservices. Never afraid to get stuck in and get the job done.
 
