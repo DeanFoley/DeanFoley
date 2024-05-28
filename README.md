@@ -17,12 +17,12 @@
 
 `>` **Programming**
 
-<img src="https://skills.thijs.gg/icons?i=go,typescript,javascript,rust,cpp,elixir" alt="Programming languages" height="50"/>
+<img src="https://skillicons.dev/icons?i=go,typescript,javascript,rust,cpp,elixir" alt="Programming languages" height="50"/>
 
 `>` **Web**
 
-<img src="https://skills.thijs.gg/icons?i=react,angular,gatsby,typescript,javascript,jest" alt="Web technologies" height="50"/>
+<img src="https://skillicons.dev/icons?i=react,angular,gatsby,typescript,javascript,jest" alt="Web technologies" height="50"/>
 
 `>` **Platform & Infrastructure**
 
-<img src="https://skills.thijs.gg/icons?i=aws,azure,gcp,mongodb,docker,linux" alt="Tooling & other" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,docker,linux" alt="Tooling & other" height="50"/>
